@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>//localhost:8208/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Dec 2016 15:04:10 +0000</lastBuildDate>
+    <atom:link href="//localhost:8208/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Making sense of the SCAA’s new Flavor Wheel</title>
+      <link>//localhost:8208/blog/making-sense/</link>
+      <pubDate>Sat, 17 Dec 2016 15:04:10 +0000</pubDate>
+      <guid>//localhost:8208/blog/making-sense/</guid>
+      <description>&lt;p&gt;The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.&lt;/p&gt;&#xA;&lt;p&gt;While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

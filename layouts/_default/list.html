@@ -1,0 +1,19 @@
+<main>
+  <article>
+    <header>
+      <h1>{{ .Title }}</h1>
+    </header>
+    <!-- "{{ .Content }}" 从相应的 _index.md 的 markdown 内容中获取-->
+    {{ .Content }}
+  </article>
+  <ul>
+    <!-- 遍历 content/posts/*.md -->
+    {{ range .Pages }}
+    <li>
+      <a href="{{ .Permalink }}"
+        >{{ .Date.Format "2006-01-02" }} | {{ .Title }}</a
+      >
+    </li>
+    {{ end }}
+  </ul>
+</main>
